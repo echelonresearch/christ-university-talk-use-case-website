@@ -54,5 +54,4 @@ Present any innovative idea for a problem of your choice. This is your chance to
 <input type="number" id="team-size-input" min="1" />
 <p>Presentation Time: <span id="presentation-time">0 minutes</span></p>
 
-</br>
-<script src="/docs/js/script.js"></script>
+<script src="https://raw.githubusercontent.com/echelonresearch/christ-university-talk-use-case-website/main/docs/js/script.js"></script>
